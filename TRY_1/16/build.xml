@@ -11,7 +11,7 @@
  * 	1. "compilerarg" => http://ant.apache.org/manual/Tasks/javac.html
  *									*
  ************************************/
- -->   
+ -->
 <project name="sample" default="compile" basedir=".">
 	<property name="srcfile" value="sub2_TreeSet.java" ></property>
 	<property name="opt" value="-Xlint:unchecked"></property>
